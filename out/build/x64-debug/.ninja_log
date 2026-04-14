@@ -1,0 +1,8 @@
+# ninja log v6
+11	1186	7977559251709041	CMakeFiles/Sustify.dir/src/main.cpp.obj	95ed4b814c9c1fb9
+24	2003	7977558076690392	_deps/webview-build/core/CMakeFiles/webview_core_static.dir/src/webview.cc.obj	e50cfdfa14281164
+16	2011	7977558076478908	_deps/webview-build/core/CMakeFiles/webview_core_shared.dir/src/webview.cc.obj	f20045451002a6de
+32	531	7977559256458400	_deps/webview-build/core/webviewd.lib	1c630c4220ea3a31
+47	209	7977559252078323	_deps/webview-build/core/webview_staticd.lib	ec0eed0b18450e8a
+32	531	7977559256458400	_deps/webview-build/core/webviewd.dll	1c630c4220ea3a31
+10	400	7977620398364168	Sustify.exe	5b91ee3169684c7a

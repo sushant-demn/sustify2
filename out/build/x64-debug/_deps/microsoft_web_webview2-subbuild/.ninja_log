@@ -1,0 +1,21 @@
+# ninja log v6
+11	145	7977557266628833	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-mkdir	6f9b1b3b8a24adc1
+11	145	7977557266628833	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-mkdir	6f9b1b3b8a24adc1
+146	5000	7977557315214774	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-download	4de027ce5fdc0294
+146	5000	7977557315214774	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-download	4de027ce5fdc0294
+5001	5084	7977557316083093	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-update	b03af55fb05e9f56
+5001	5084	7977557316083093	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-update	b03af55fb05e9f56
+5084	5193	7977557317094514	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-patch	84d58790d96494cd
+5084	5193	7977557317094514	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-patch	84d58790d96494cd
+5193	5295	7977557318123891	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-configure	ed3fb2269579a68c
+5193	5295	7977557318123891	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-configure	ed3fb2269579a68c
+5295	5382	7977557319020928	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-build	65780c5d1b418406
+5295	5382	7977557319020928	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-build	65780c5d1b418406
+5383	5492	7977557320030368	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-install	4ddaec55ccdc0a2d
+5383	5492	7977557320030368	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-install	4ddaec55ccdc0a2d
+5492	5640	7977557321524131	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-test	103a5c3ffa583af7
+5492	5640	7977557321524131	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-test	103a5c3ffa583af7
+5640	5773	7977557322940660	CMakeFiles/microsoft_web_webview2-populate-complete	d2c5c01532c38340
+5640	5773	7977557322940660	microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-done	d2c5c01532c38340
+5640	5773	7977557322940660	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/CMakeFiles/microsoft_web_webview2-populate-complete	d2c5c01532c38340
+5640	5773	7977557322940660	E:/code/Sustfy 2.0/out/build/x64-debug/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-done	d2c5c01532c38340
